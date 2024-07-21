@@ -1,1 +1,1 @@
-#### 📌Spring Boot example
+#### 📌 Spring Boot example
